@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,MICKS LIST
 http://0.0.0.0:1000
-#EXTINF:-1,BABY TV
-http://cdn-08.sdn.si/babytv/babytv.m3u8
 #EXTINF:-1,RCN Televisión de Colombia T-K
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 #EXTINF:-1,Caracol T-K
