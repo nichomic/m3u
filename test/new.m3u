@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,AR_BEIN 1 HD 
 http://178.33.88.129:888/udp/239.102.0.20:1234 
 #EXTINF:-1,AR_BEIN 2 HD 
@@ -29,7 +30,7 @@ http://178.33.88.129:888/udp/239.102.0.10:1234
 
 
 
-#ýEXTINF:-1, FOX
+#Ã½EXTINF:-1, FOX
 http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
 #EXTINF:-1, FOX HD
 http://stalker.darkuzdev.cf:8080/streamer/86.m3u8
@@ -399,7 +400,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8 
 #EXTINF:-1,Turki-TURKMEN SPORT 
 rtmp://217.174.227.20/webtv/ch004_sd 
-#EXTINF:-1,Turki-Türkmen Türkmen Sport 
+#EXTINF:-1,Turki-TÃ¼rkmen TÃ¼rkmen Sport 
 http://tv.online.tm/hls/ch004_md/index.m3u8 
 #EXTINF:-1,TURKMENISTAN SPORT 
 http://tv.online.tm//hls/ch004.m3u8 
