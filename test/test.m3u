@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="RTS1" tvg-logo="",RTS 1
 http://server4.balkantvmedia.com:8080/RTS1?u=user394:p=z180ksD0
 #EXTM3U
