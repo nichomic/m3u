@@ -1,5 +1,18 @@
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_crime" tvg-logo="",FOX CRIME
+http://server9.balkantvmedia.com:8080/FOX_crime?u=user394:p=z180ksD0
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_crime" tvg-logo="",FOX Crime
+http://server9.balkantvmedia.com:8080/FOX_crime?u=user394:p=z180ksD0
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX_life" tvg-logo="",FOX Life
+http://server4.balkantvmedia.com:8080/FOX_life?u=user394:p=z180ksD0
+
+
+
 #EXTINF:-1 tvg-name="RTS1" tvg-logo="",RTS 1
 http://server4.balkantvmedia.com:8080/RTS1?u=user394:p=z180ksD0
 
